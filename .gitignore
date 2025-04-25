@@ -1,0 +1,18 @@
+# User-specific files
+UserSettings/
+
+# Build directories
+Builds/
+.vs/
+.idea/
+
+# Unity specific
+Library/
+Temp/
+Obj/
+MemoryCaptures/
+
+# User-generated files
+.vscode/
+.gradle/
+
