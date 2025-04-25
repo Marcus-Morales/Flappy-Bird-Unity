@@ -11,9 +11,8 @@ Welcome to the **Flappy Bird 2D** game project built with Unity! This is a simpl
 
 ## Screenshots
 
-![Flappy Bird Gameplay](link-to-screenshot.jpg)
+![Flappy Bird Gameplay](flappybird.gif)
 
-*Add images or GIFs of the gameplay here if possible.*
 
 ## Technologies Used
 
