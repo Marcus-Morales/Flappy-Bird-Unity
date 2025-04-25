@@ -17,7 +17,7 @@ Welcome to the **Flappy Bird 2D** game project built with Unity! This is a simpl
 
 ## Technologies Used
 
-- **Unity** (Unity 6 6000.0.25f1) for game development
+- **Unity** (Unity 6 6000.0.25f1 or newer) for game development
 - **C#** for game logic and scripting
 - **Sprite-based graphics** for the bird and obstacles
 - **Simple physics engine** for gravity and collision detection
@@ -28,11 +28,11 @@ To play or contribute to the Flappy Bird 2D game, follow the steps below.
 
 ### Prerequisites
 
-- Install [Unity](https://unity.com/) (version X.X.X or newer)
+- Install [Unity](https://unity.com/) (Unity 6 6000.0.25f1 or newer)
 - Basic knowledge of Unity interface and C# scripting is helpful but not required
 
 ### Installation
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/flappy-bird-2d.git
+   git clone https://github.com/Marcus-Morales/Flappy-Bird-Unity.git
